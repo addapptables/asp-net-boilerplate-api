@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="es">
+  <texts>
+    <text name="AllOfThesePermissionsMustBeGranted" value="Los permisos requeridos no han sido otorgados. Todos estos permisos deben ser otorgados: {0}" />
+    <text name="AtLeastOneOfThesePermissionsMustBeGranted" value="Los permisos requeridos no han sido otorgados. Al menos uno de estos permisos deben ser otorgados: {0}" />
+    <text name="DefaultFromSenderEmailAddress" value="Correo electrónico predeterminado del remitente" />
+    <text name="DefaultFromSenderDisplayName" value="Nombre predeterminado del remitente" />
+    <text name="DefaultLanguage" value="Idioma predeterminado" />
+    <text name="CurrentUserDidNotLoginToTheApplication" value="El usuario actual no ha iniciado sesión en la aplicación!" />
+    <text name="SmtpHost" value="Servidor SMTP" />
+    <text name="SmtpPort" value="Puerto SMTP" />
+    <text name="Username" value="Nombre de usuario" />
+    <text name="Password" value="Contraseña" />
+    <text name="DomainName" value="Nombre del dominio" />
+    <text name="UseSSL" value="Usar SSL" />
+    <text name="UseDefaultCredentials" value="Usar las credenciales predeterminadas" />
+    <text name="ReceiveNotifications" value="Recibir notificaciones" />
+    <text name="TimeZone" value="Huso horario" />
+    <text name="MainMenu" value="Menú principal" />
+  </texts>
+</localizationDictionary>
