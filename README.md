@@ -12,7 +12,7 @@ Addapptables boilerplate is based on [ASP.NET Boilerplate](https://github.com/as
 
 - Run migrations within the project Addapptables.Boilerplate.EntityFrameworkCore with the following command line: dotnet ef database update
 
-- Start application with dotnet run or visual studio
+- Start application with dotnet run or run with visual studio
 
 - see http://localhost:21021
 
